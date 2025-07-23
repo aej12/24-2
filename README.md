@@ -13,7 +13,7 @@
   <h2>광고 보시는 중이에요 😊</h2>
   <p>5초 후 공유자료로 이동합니다...</p>
   <p>
-    👉 <a href="https://link.coupang.com/a/cGsDoc"_blank">쿠팡에서 인기 상품 보기</a>
+    👉 <a href="https://link.coupang.com/a/cGsDoc" target="_blank">쿠팡에서 인기 상품 보기</a>
   </p>
 
   <script>
